@@ -1,6 +1,6 @@
 {
   "name": "@pandora2000/tmlogger",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A logger.",
   "main": "Logger.js",
   "directories": {
