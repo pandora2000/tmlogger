@@ -1,0 +1,20 @@
+{
+  "name": "tmlogger",
+  "version": "1.0.0",
+  "description": "A logger.",
+  "main": "Logger.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": "github:pandora2000/tmlogger",
+  "author": "Tetsuri Moriya",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^9.1.0",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.1"
+  }
+}
